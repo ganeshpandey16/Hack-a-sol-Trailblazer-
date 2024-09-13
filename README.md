@@ -1,1 +1,1 @@
-# dApp-messager
+Decentralized messaging protocol
